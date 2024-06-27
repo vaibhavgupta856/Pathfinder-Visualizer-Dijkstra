@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-![Pathfinding Visualizer]([./assets/pathfinding-visualizer.png](https://github.com/vaibhavgupta856/Pathfinder-Visualizer-Dijkstra/blob/main/Screenshot%20(8).png))
+![Pathfinding Visualizer](./assets/pathfinding-visualizer.png](https://github.com/vaibhavgupta856/Pathfinder-Visualizer-Dijkstra/blob/main/Screenshot%20(8).png)](https://github.com/vaibhavgupta856/Pathfinder-Visualizer-Dijkstra/blob/main/Screenshot%20(8).png))
 
 ## Description
 
