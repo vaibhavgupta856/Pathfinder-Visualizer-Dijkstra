@@ -2,7 +2,7 @@
 
 ### Deployment
 
-This project is deployed and accessible online. You can view it ![here](https://668056fbe3616739d913f7e6--stellular-twilight-968f2d.netlify.app/).
+This project is deployed and accessible online. You can view it here  : https://668056fbe3616739d913f7e6--stellular-twilight-968f2d.netlify.app/.
 
 
 ![Pathfinding Visualizer](https://github.com/vaibhavgupta856/Pathfinder-Visualizer-Dijkstra/blob/main/Screenshot%20(8).png)
